@@ -1,0 +1,20 @@
+name: medical-chatbot
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - sqlite>=3.35
+  - pip
+  - pip:
+    - transformers
+    - tokenizers
+    - langchain
+    - faiss-cpu
+    - streamlit 
+    - langchain-huggingface
+    - langchain_community
+    - sacremoses
+    - openai
+    - chromadb
+    - tiktoken
+    - datasets
