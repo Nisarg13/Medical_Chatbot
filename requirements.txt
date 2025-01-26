@@ -6,4 +6,3 @@ python-dotenv
 langchain-community
 tiktoken
 chromadb==0.3.29
-pysqlite3
