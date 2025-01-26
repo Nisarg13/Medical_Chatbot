@@ -6,3 +6,4 @@ python-dotenv
 langchain-community
 tiktoken
 chromadb
+pysqlite3
