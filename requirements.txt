@@ -5,5 +5,5 @@ datasets
 python-dotenv
 langchain-community
 tiktoken
-chromadb
+chromadb==0.3.29
 pysqlite3
